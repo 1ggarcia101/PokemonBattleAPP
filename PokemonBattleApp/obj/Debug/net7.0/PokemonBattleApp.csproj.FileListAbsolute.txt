@@ -1,0 +1,15 @@
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\bin\Debug\net7.0\PokemonBattleApp.exe
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\bin\Debug\net7.0\PokemonBattleApp.deps.json
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\bin\Debug\net7.0\PokemonBattleApp.runtimeconfig.json
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\bin\Debug\net7.0\PokemonBattleApp.dll
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\bin\Debug\net7.0\PokemonBattleApp.pdb
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.csproj.AssemblyReference.cache
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.AssemblyInfoInputs.cache
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.AssemblyInfo.cs
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.csproj.CoreCompileInputs.cache
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.dll
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\refint\PokemonBattleApp.dll
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.pdb
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\PokemonBattleApp.genruntimeconfig.cache
+C:\Users\ggarcia\source\repos\PokemonBattleApp\PokemonBattleApp\obj\Debug\net7.0\ref\PokemonBattleApp.dll
